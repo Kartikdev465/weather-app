@@ -6,7 +6,7 @@ This is a **real-time weather forecasting web application** built using **Python
 
 ## 🚀 Live Demo
 
-👉 [Launch Streamlit App](https://weather-app-m3qcybyvekh29hkvjurom3.streamlit.app/)  
+👉 [Launch Streamlit App](https://weather-app-wgdrhvdss8plleoszwkvhl.streamlit.app/)  
 *(You can deploy it on [Streamlit Cloud](https://share.streamlit.io) in seconds)*
 
 ---
